@@ -1,0 +1,2 @@
+# entityempservicebus
+A C# demo using Azure Service Bus by creating one topic and multiple subscription to simultaneously send notifications for employees of all entities. This solves problem in SaaS based applications service multiple entities and generally face issues due to uneven demands in entities. Using service bus it will be publish and subscribe mechanism, event based and won't stuck by uneven loads per entity.
